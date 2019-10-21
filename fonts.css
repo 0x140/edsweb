@@ -26,7 +26,7 @@
 .indie-flower{font-family: 'Indie Flower', cursive;}
 
 @import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
-.pacifico{font-family: 'Pacifico', cursive;}
+.pacifico{font-family: 'Pacifico', cursive}
 
 @import url('https://fonts.googleapis.com/css?family=Exo&display=swap');
 .exo{font-family: 'Exo', sans-serif;}
@@ -35,4 +35,16 @@
 .exo2{font-family: 'Exo 2', sans-serif;}
 
 @import url('https://fonts.googleapis.com/css?family=Libre+Baskerville:400,700&display=swap');
-.libre{font-family: 'Libre Baskerville', serif;}
+.libre{font-family: 'Libre Baskerville', serif;font-size: 40pt;font-weight: 700pt;}
+
+@import url('https://fonts.googleapis.com/css?family=Great+Vibes&display=swap');
+.greatvibes{font-family: 'Great Vibes', cursive;}
+
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script&display=swap');
+.dancing-script{font-family: 'Dancing Script', cursive;}
+
+@import url('https://fonts.googleapis.com/css?family=Saira&display=swap');
+.saira{font-family: 'Saira', sans-serif;}
+
+@import url('https://fonts.googleapis.com/css?family=Jura&display=swap');
+.jura{font-family: 'Jura', sans-serif;}
