@@ -8,7 +8,7 @@ An elaborate code.
 ******************************
 
 ##Added some bootstrap.
-<img src="img/welcome.png" width="96px" height="353px" />
+<img src="img/welcome.png" width="320px" height="640px" />
 
 /+++++******			  ******+++++\
 			*Made Natural
