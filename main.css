@@ -40,18 +40,26 @@
 .navbar-dark .navbar-nav .nav-link:hover{
 	color:orange;
 }
-/*
-.Icon{
-	border-radius:80px;
-	height: 10px;
-	width: 8px; 
-	padding-top: 400px
-}
-*/
-/*features*/
-.features-name{
+
+.advice-name{
 	padding-top: 10px;
 	color: #2356dc;
 	font-size: 45pt;
 	text-decoration: underline;
+}
+.libre{
+	font-size: 51pt !important;
+}
+
+.caption2{
+	height: 352px;
+}
+
+.satisfy{
+	font-size: 90pt;
+}
+
+#caption3{
+	padding-top: 70px !important;
+	height: 30px !important;
 }
