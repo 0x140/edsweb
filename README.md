@@ -1,14 +1,6 @@
-# ITS A BRAND NEW DAY.
-******************************
-==============================
+# After Understanding Bootstrap.
+• Also another one of my sites.
+• This was to be a good site.
+• It was after I read Bootstrap and got to understand it.
 
-
-An elaborate code.
-==============================
-******************************
-
-##Added some bootstrap.
-<img src="img/welcome.png" width="96px" height="353px" />
-
-/+++++******			  ******+++++\
-			*Made Natural
+*Enjoy*
